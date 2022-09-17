@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    max-width: 80vw;
+    font-family: sans-serif;
+}
+
+.navbar{
+    display: flex;
+    height: 65px;
+
+}
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+}
+
+.tleft{
+    width: 50%;
+    height: 50vh;
+}
+
+.tright{
+    width: 50%;
+    height: 50vh;
+}
+
+.font-s{
+    font-size: larger;
+
+}
+
+.sec2 h1{
+    font-size: 1.5rem;
+}
+
+.sec2{
+    padding-left: 63px;
+    padding-right: 63px;
+}
+
+.box{
+    margin: 12px 22px;
+    min-width: 22vw ;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.box ul{
+    list-style-type: none;
+}
+
+.box ul li{
+    margin: 12px 2px;
+    font-family: Helvetica;
+}
+
+footer{
+    padding: 16px;
+    text-align: center;
+    background-color: lightgrey;
+    margin-top: 100px;
+}
